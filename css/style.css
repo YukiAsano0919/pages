@@ -16,6 +16,9 @@ h1 {
 .time {
   text-align: right; 
 }
+hr {
+  color:black;
+}
 /*---------背景色--------- */
 body {
   background-color: #fff9ce;
